@@ -27,7 +27,7 @@ pkg upgrade
 
 Install system packages:
 ```
-pkg install sudo bash icu cmake pkgconf git nginx node ruby ruby22-gems logrotate redis postgresql95-server postgresql95-contrib postfix krb5 gmake go
+pkg install sudo bash icu cmake pkgconf git nginx node6 ruby ruby22-gems logrotate redis postgresql95-server postgresql95-contrib postfix krb5 gmake go
 ```
 
 Install bundler gem system-wide:
